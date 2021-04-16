@@ -6,7 +6,8 @@
 ## 部署
 
 ```
-docker build dockerfile
+进入dockerfile所在文件夹
+docker build .-t anomalydetection
 ```
 
 ## KPI异常检测
