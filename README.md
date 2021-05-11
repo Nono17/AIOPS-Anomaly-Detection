@@ -7,7 +7,7 @@
 
 ```
 打开dockerfile所在文件夹
-docker build .-t anomalydetection
+docker build . -t anomalydetection
 ```
 
 ## KPI异常检测
